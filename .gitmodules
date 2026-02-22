@@ -1,0 +1,3 @@
+[submodule "bravolak-nft/lib/openzeppelin-contracts"]
+	path = bravolak-nft/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
